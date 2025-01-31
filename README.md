@@ -1,6 +1,7 @@
 # Student-performance-using-Machine-Learning
 
 This project leverages machine learning algorithms to predict student performance based on various features such as study habits, attendance, and other related attributes. The dataset is sourced from Kaggle and has been preprocessed to ensure accurate model training and evaluation.
+This dataset contains information related to student demographics, academic performance, and extracurricular activities. The goal is likely to analyze factors influencing student success, particularly GPA and grade classification.
 
 # Features of the Project
 Dataset: Student performance data obtained from Kaggle.
